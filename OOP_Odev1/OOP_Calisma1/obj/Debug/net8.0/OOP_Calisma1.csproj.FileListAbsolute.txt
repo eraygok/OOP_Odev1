@@ -1,0 +1,14 @@
+C:\Users\erayg\source\repos\OOP_Odev1\OOP_Calisma1\bin\Debug\net8.0\OOP_Calisma1.exe
+C:\Users\erayg\source\repos\OOP_Odev1\OOP_Calisma1\bin\Debug\net8.0\OOP_Calisma1.deps.json
+C:\Users\erayg\source\repos\OOP_Odev1\OOP_Calisma1\bin\Debug\net8.0\OOP_Calisma1.runtimeconfig.json
+C:\Users\erayg\source\repos\OOP_Odev1\OOP_Calisma1\bin\Debug\net8.0\OOP_Calisma1.dll
+C:\Users\erayg\source\repos\OOP_Odev1\OOP_Calisma1\bin\Debug\net8.0\OOP_Calisma1.pdb
+C:\Users\erayg\source\repos\OOP_Odev1\OOP_Calisma1\obj\Debug\net8.0\OOP_Calisma1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erayg\source\repos\OOP_Odev1\OOP_Calisma1\obj\Debug\net8.0\OOP_Calisma1.AssemblyInfoInputs.cache
+C:\Users\erayg\source\repos\OOP_Odev1\OOP_Calisma1\obj\Debug\net8.0\OOP_Calisma1.AssemblyInfo.cs
+C:\Users\erayg\source\repos\OOP_Odev1\OOP_Calisma1\obj\Debug\net8.0\OOP_Calisma1.csproj.CoreCompileInputs.cache
+C:\Users\erayg\source\repos\OOP_Odev1\OOP_Calisma1\obj\Debug\net8.0\OOP_Calisma1.dll
+C:\Users\erayg\source\repos\OOP_Odev1\OOP_Calisma1\obj\Debug\net8.0\refint\OOP_Calisma1.dll
+C:\Users\erayg\source\repos\OOP_Odev1\OOP_Calisma1\obj\Debug\net8.0\OOP_Calisma1.pdb
+C:\Users\erayg\source\repos\OOP_Odev1\OOP_Calisma1\obj\Debug\net8.0\OOP_Calisma1.genruntimeconfig.cache
+C:\Users\erayg\source\repos\OOP_Odev1\OOP_Calisma1\obj\Debug\net8.0\ref\OOP_Calisma1.dll
